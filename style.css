@@ -10,6 +10,7 @@ body{
     background-image: url(./pexels-spencer-lind-1331750.jpg);   
     background-size: cover; 
     background-position: center;
+    background-repeat: no-repeat;
 }
 .addHere{
     margin: 10px 0;
